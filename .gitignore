@@ -1,0 +1,17 @@
+# ملفات النظام
+.DS_Store
+Thumbs.db
+desktop.ini
+# المحررات
+.vscode/
+.idea/
+*.swp
+# ملفات مؤقتة وسجلات
+*.log
+*.tmp
+node_modules/
+# ملفات بيئة وأسرار (لا تُرفع أبدًا)
+.env
+.env.*
+*.pem
+*.key
